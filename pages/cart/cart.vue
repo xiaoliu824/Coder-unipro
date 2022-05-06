@@ -1,6 +1,6 @@
 <template>
 	<view>
-		Cart
+		cart
 	</view>
 </template>
 
